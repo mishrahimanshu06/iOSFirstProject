@@ -1,7 +1,6 @@
 machine:
   xcode:
     version: 8.0
-
 Deployment:
   staging:
     branch: master
