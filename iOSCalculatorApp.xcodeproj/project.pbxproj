@@ -196,6 +196,7 @@
 				TargetAttributes = {
 					197174FA1ECC3DC9003D4E1F = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 34L482U8YJ;
 						ProvisioningStyle = Automatic;
 					};
 					197175111ECC3DC9003D4E1F = {
@@ -416,6 +417,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 34L482U8YJ;
 				INFOPLIST_FILE = iOSCalculatorApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = himanshu.iOSCalculatorApp;
@@ -428,6 +430,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 34L482U8YJ;
 				INFOPLIST_FILE = iOSCalculatorApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = himanshu.iOSCalculatorApp;
@@ -509,6 +512,7 @@
 				197175281ECC3DC9003D4E1F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		197175291ECC3DC9003D4E1F /* Build configuration list for PBXNativeTarget "iOSCalculatorAppTests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +521,7 @@
 				1971752B1ECC3DC9003D4E1F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1971752C1ECC3DC9003D4E1F /* Build configuration list for PBXNativeTarget "iOSCalculatorAppUITests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +530,7 @@
 				1971752E1ECC3DC9003D4E1F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
