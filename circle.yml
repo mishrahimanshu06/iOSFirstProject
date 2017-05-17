@@ -1,3 +1,9 @@
 machine:
   xcode:
     version: 8.0
+
+Deployment:
+  staging:
+    branch: master
+    commands:
+      - fastlane release_staging
